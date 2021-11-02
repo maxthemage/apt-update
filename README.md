@@ -4,7 +4,7 @@ This is a set of bash scripts for automatically scheduling the fetching and inst
 
 ## Features
 
-* Full safe system update
+* Safe system upgrade
 * Scheduling updates
 * Concise understandable logs
 
